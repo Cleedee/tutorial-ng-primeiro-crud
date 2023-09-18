@@ -1,0 +1,28 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Que bom você veio",
+      "autoria": "Claudio",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "Angular é o melhor",
+      "autoria": "Fabio",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 3,
+      "conteudo": "A sorte chega para quem busca.",
+      "autoria": "Paloma",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 4,
+      "conteudo": "Glória e tradição...",
+      "autoria": "Hino do Fortaleza",
+      "modelo": "modelo3"
+    }
+  ]
+}
