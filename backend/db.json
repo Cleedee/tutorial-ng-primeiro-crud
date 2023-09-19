@@ -2,15 +2,9 @@
   "pensamentos": [
     {
       "id": 1,
-      "conteudo": "Que bom você veio",
+      "conteudo": "Que bom você veio!",
       "autoria": "Claudio",
       "modelo": "modelo1"
-    },
-    {
-      "id": 2,
-      "conteudo": "Angular é o melhor",
-      "autoria": "Fabio",
-      "modelo": "modelo2"
     },
     {
       "id": 3,
