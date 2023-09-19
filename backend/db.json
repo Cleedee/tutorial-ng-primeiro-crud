@@ -23,6 +23,18 @@
       "conteudo": "Glória e tradição...",
       "autoria": "Hino do Fortaleza",
       "modelo": "modelo3"
+    },
+    {
+      "conteudo": "O juízo em geral é a faculdade de pensar o particular como compreendido sob o universal.",
+      "autoria": "Immanuel Kant",
+      "modelo": "modelo3",
+      "id": 5
+    },
+    {
+      "conteudo": "Aquilo que eu não percebo não existe.",
+      "autoria": "George Berkeley",
+      "modelo": "modelo2",
+      "id": 6
     }
   ]
 }
