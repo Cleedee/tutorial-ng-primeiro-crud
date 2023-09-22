@@ -29,6 +29,12 @@
       "autoria": "George Berkeley",
       "modelo": "modelo2",
       "id": 6
+    },
+    {
+      "conteudo": "Aquele que vence a raiva vence os seus inimigos.",
+      "autoria": "Hegel",
+      "modelo": "modelo2",
+      "id": 7
     }
   ]
 }
