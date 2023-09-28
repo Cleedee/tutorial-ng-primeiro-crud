@@ -35,6 +35,24 @@
       "autoria": "Hegel",
       "modelo": "modelo2",
       "id": 7
+    },
+    {
+      "conteudo": "A história de todas as sociedades até hoje existentes é a história das lutas de classes.",
+      "autoria": "karl marx",
+      "modelo": "modelo1",
+      "id": 8
+    },
+    {
+      "conteudo": "Até agora os filósofos ficam preocupados na interpretação do mundo de várias maneiras. O que importa é transformá-lo.",
+      "autoria": "karl marx",
+      "modelo": "modelo3",
+      "id": 9
+    },
+    {
+      "conteudo": "Se a educação sozinha não transforma a sociedade, sem ela, tampouco, a sociedade muda.",
+      "autoria": "paulo freire",
+      "modelo": "modelo1",
+      "id": 10
     }
   ]
 }
