@@ -54,14 +54,14 @@
       "autoria": "karl marx",
       "modelo": "modelo3",
       "id": 9,
-      "favorito": false
+      "favorito": true
     },
     {
       "conteudo": "Se a educação sozinha não transforma a sociedade, sem ela, tampouco, a sociedade muda.",
       "autoria": "paulo freire",
       "modelo": "modelo1",
       "id": 10,
-      "favorito": true
+      "favorito": false
     },
     {
       "conteudo": "É preciso amar as pessoas como se não houvesse amanhã, porque se você parar para pensar, na verdade não há.",
