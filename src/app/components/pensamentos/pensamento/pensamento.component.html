@@ -7,8 +7,10 @@
     </b>
   </p>
   <div class="acoes">
-    <button class="botao-favorito">
-      <img src="/assets/imagens/coracao-azul-{{ mudarIconeFavorito() }}.png" alt="">
+    <button class="botao-favorito" (click)="atualizarFavoritos()">
+      <img src="/assets/imagens/coracao-azul-{{ mudarIconeFavorito() }}.png"
+        alt="Ícone favorito {{ mudarIconeFavorito() }}"
+        style="width: 40px;">
     </button>
     <button class="botao-editar" routerLink="/pensamentos/editarPensamento/{{ pensamento.id }}">
       <img src="/assets/imagens/icone-editar.png" alt="Ícone de editar">

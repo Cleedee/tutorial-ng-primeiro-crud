@@ -4,55 +4,78 @@
       "id": 1,
       "conteudo": "Que bom você veio!",
       "autoria": "Claudio",
-      "modelo": "modelo1"
+      "modelo": "modelo1",
+      "favorito": true
     },
     {
       "id": 3,
       "conteudo": "A sorte chega para quem busca.",
       "autoria": "Paloma",
-      "modelo": "modelo2"
+      "modelo": "modelo2",
+      "favorito": false
     },
     {
       "id": 4,
       "conteudo": "Glória e tradição...",
       "autoria": "Hino do Fortaleza",
-      "modelo": "modelo3"
+      "modelo": "modelo3",
+      "favorito": false
     },
     {
       "conteudo": "O juízo em geral é a faculdade de pensar o particular como compreendido sob o universal.",
       "autoria": "Immanuel Kant",
       "modelo": "modelo3",
-      "id": 5
+      "id": 5,
+      "favorito": false
     },
     {
       "conteudo": "Aquilo que eu não percebo não existe.",
       "autoria": "George Berkeley",
       "modelo": "modelo2",
-      "id": 6
+      "id": 6,
+      "favorito": false
     },
     {
       "conteudo": "Aquele que vence a raiva vence os seus inimigos.",
       "autoria": "Hegel",
       "modelo": "modelo2",
-      "id": 7
+      "id": 7,
+      "favorito": true
     },
     {
       "conteudo": "A história de todas as sociedades até hoje existentes é a história das lutas de classes.",
       "autoria": "karl marx",
       "modelo": "modelo1",
-      "id": 8
+      "id": 8,
+      "favorito": false
     },
     {
       "conteudo": "Até agora os filósofos ficam preocupados na interpretação do mundo de várias maneiras. O que importa é transformá-lo.",
       "autoria": "karl marx",
       "modelo": "modelo3",
-      "id": 9
+      "id": 9,
+      "favorito": false
     },
     {
       "conteudo": "Se a educação sozinha não transforma a sociedade, sem ela, tampouco, a sociedade muda.",
       "autoria": "paulo freire",
       "modelo": "modelo1",
-      "id": 10
+      "id": 10,
+      "favorito": true
+    },
+    {
+      "conteudo": "É preciso amar as pessoas como se não houvesse amanhã, porque se você parar para pensar, na verdade não há.",
+      "autoria": "Renato Russo",
+      "modelo": "modelo1",
+      "favorito": true,
+      "id": 11
+    },
+    {
+      "conteudo": "Não preciso de modelos Não preciso de heróis Eu tenho meus amigos.",
+      "autoria": "Renato Russo",
+      "modelo": "modelo1",
+      "favorito": false,
+      "id": 12
     }
   ]
 }
